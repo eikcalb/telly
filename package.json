@@ -1,0 +1,11 @@
+{
+  "name": "telly",
+  "version": "0.0.2",
+  "description": "Telly is a distributed eventing library. This is a reference implementation for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agwa Israel Onome",
+  "license": "ISC"
+}
