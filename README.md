@@ -6,6 +6,8 @@ version 0.1
 
 > This repo contains a reference implementation of Telly event system in JavaScript with HTTP (TCP) connections.
 
+---
+
 ## What is Telly?  
 
 Telly is a distributed event management platform.
@@ -50,4 +52,6 @@ All events are required to have a human readable name
 
 ### **state**
 
+## TODO
 
++ Certificates should be used for verifying hosts

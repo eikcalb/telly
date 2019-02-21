@@ -5,3 +5,5 @@
 //     constructor(){
 //     }
 // }
+
+export function parse() { }
